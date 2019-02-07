@@ -1,0 +1,7 @@
+C:\Users\bc1729\Desktop\C sharp personal projects\DelegateEventExampleWithClocks\DelegateEventExampleWithClocks\bin\Debug\DelegateEventExampleWithClocks.exe.config
+C:\Users\bc1729\Desktop\C sharp personal projects\DelegateEventExampleWithClocks\DelegateEventExampleWithClocks\bin\Debug\DelegateEventExampleWithClocks.exe
+C:\Users\bc1729\Desktop\C sharp personal projects\DelegateEventExampleWithClocks\DelegateEventExampleWithClocks\bin\Debug\DelegateEventExampleWithClocks.pdb
+C:\Users\bc1729\Desktop\C sharp personal projects\DelegateEventExampleWithClocks\DelegateEventExampleWithClocks\obj\Debug\DelegateEventExampleWithClocks.csprojResolveAssemblyReference.cache
+C:\Users\bc1729\Desktop\C sharp personal projects\DelegateEventExampleWithClocks\DelegateEventExampleWithClocks\obj\Debug\DelegateEventExampleWithClocks.csproj.CoreCompileInputs.cache
+C:\Users\bc1729\Desktop\C sharp personal projects\DelegateEventExampleWithClocks\DelegateEventExampleWithClocks\obj\Debug\DelegateEventExampleWithClocks.exe
+C:\Users\bc1729\Desktop\C sharp personal projects\DelegateEventExampleWithClocks\DelegateEventExampleWithClocks\obj\Debug\DelegateEventExampleWithClocks.pdb
